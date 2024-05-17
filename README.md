@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# duhaesbaert nvim config 
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Pre-requiistes
+
+- Install [ripgrep](https://github.com/BurntSushi/ripgrep)
+
+## Usage
+
+Clone this repository into your .config/nvim folder
