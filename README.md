@@ -1,9 +1,9 @@
-# duhaesbaert nvim config 
+## duhaesbaert nvim config 
 
-## Pre-requiistes
+### Pre-requiistes
 
 - Install [ripgrep](https://github.com/BurntSushi/ripgrep)
 
-## Usage
+### Usage
 
 Clone this repository into your .config/nvim folder
