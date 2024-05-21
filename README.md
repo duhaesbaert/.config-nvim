@@ -5,6 +5,7 @@ My NeoVim configuration using Lazy package manager.
 ### Pre-requisites
 
 - Install [ripgrep](https://github.com/BurntSushi/ripgrep)
+- And, of course, have neovim installed.
 
 ### Usage
 
